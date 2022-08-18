@@ -1,9 +1,12 @@
 statsforecast
+statsmodels
+numba
 pandas
 pystan
 sklearn
 pmdarima
 scikit_posthocs
+black
 sktime @ git+https://github.com/alan-turing-institute/sktime.git#master[all_extras]
 pmdarima
 jupyter
