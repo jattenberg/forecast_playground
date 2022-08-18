@@ -1,0 +1,13 @@
+statsforecast
+pandas
+pystan
+sklearn
+pmdarima
+scikit_posthocs
+sktime @ git+https://github.com/alan-turing-institute/sktime.git#master[all_extras]
+pmdarima
+jupyter
+sktime
+seaborn
+tqdm
+cmdstanpy>=1.0.1
